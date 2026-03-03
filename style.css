@@ -6,6 +6,7 @@
 .header{
    flex: 20%;
    background-color: lightgray;
+   background: url("Images/Gemini_Generated_Image_3psqbo3psqbo3psq.png") center/100% 100% ;
 }
 .menu{
    flex: 5%;
